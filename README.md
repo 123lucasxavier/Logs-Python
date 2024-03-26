@@ -1,5 +1,5 @@
 # Log File Filters  
-## This repository contains Python scripts for filtering and analyzing login attempt logs.  
+## This repository contains Python scripts for filtering and analyzing login attempt logs  
   
 ### Scripts:  
   
