@@ -5,7 +5,7 @@ This repository contains Python scripts for filtering and analyzing login attemp
 Scripts 
 
 logs-failed-filter.py 
-  Parses a login attempt log file and lists users with failed logins. 
+  Parses a login attempt log file and lists users with failed logins.                                                                                            
   Prompts the user to enter the filename. 
   Identifies failed logins based on the string "Invalid login attempt from user". 
   Prints a list of failed usernames. 
