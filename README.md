@@ -2,7 +2,7 @@
 
 This repository contains Python scripts for filtering and analyzing login attempt logs. 
 
-Scripts 
+Scripts:                                             
 
 logs-failed-filter.py                                             
   Parses a login attempt log file and lists users with failed logins.                                              
