@@ -19,8 +19,8 @@ Assumes usernames are within quotes and preceded by the word "user".
 Prints a list of unique usernames found in the log file.
 
 ### Usage  
-Clone or download this repository  
-Ensure you have Python 3.x installed on your system  
+Clone or download this repository.  
+Ensure you have Python 3.x installed on your system.  
 Run the desired script directly from the command line:  
 - python logs-failed-filter.py -> Analyze failed login attempts
 - python logs-ip-filter.py  -> Extract unique IP addresses
