@@ -1,7 +1,7 @@
 # Log File Filters  
 ## This repository contains Python scripts for filtering and analyzing login attempt logs  
   
-### Scripts:  
+### Scripts  
 **logs-failed-filter.py**  
 Parses a login attempt log file and lists users with failed logins.
 Prompts the user to enter the filename.
@@ -17,14 +17,14 @@ Prints a list of unique IP addresses found in the log file.
 Extracts unique usernames from a login attempt log file.
 Assumes usernames are within quotes and preceded by the word "user".
 Prints a list of unique usernames found in the log file.
-Usage
-  
-### Clone or download this repository.  
-Ensure you have Python 3.x installed on your system.
-Run the desired script directly from the command line:
-python logs-failed-filter.py -> Analyze failed login attempts
-python logs-ip-filter.py  -> Extract unique IP addresses
-python logs-user-filter.py -> Extract unique usernames
+
+### Usage  
+Clone or download this repository  
+Ensure you have Python 3.x installed on your system  
+Run the desired script directly from the command line:  
+- python logs-failed-filter.py -> Analyze failed login attempts
+- python logs-ip-filter.py  -> Extract unique IP addresses
+- python logs-user-filter.py -> Extract unique usernames
 
 ### Additional Notes  
 Replace any placeholder filenames (login_attempts_sample.txt) with the actual names of your log files.    
